@@ -10,3 +10,5 @@ Here’s a high-level overview of how the K-Means Clustering algorithm works:
 * Repeat: Repeat the assignment and update steps until convergence, meaning the assignments no longer change.
   
 This method is widely used in various fields such as market segmentation, pattern recognition, and image compression due to its simplicity and efficiency.
+
+Because file .exe is too large, I can't push it to Github. Use this to download file .exe [here](https://studenthcmusedu-my.sharepoint.com/:u:/g/personal/23120118_student_hcmus_edu_vn/EdK8aCLYAAxBqKmXke4U1wIB1xLtKp9x5rrOC1AXMEbPKQ?e=edRJ6b) 
