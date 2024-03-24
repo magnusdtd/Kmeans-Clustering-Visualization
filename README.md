@@ -4,8 +4,9 @@ K-Means Clustering is an unsupervised machine learning algorithm used for cluste
 
 Here’s a high-level overview of how the K-Means Clustering algorithm works:
 
-Initialization: Randomly assign ( k ) cluster centers.
-Assignment: Assign each data point to the nearest cluster center.
-Update: Recalculate the cluster centers as the mean of the assigned data points.
-Repeat: Repeat the assignment and update steps until convergence, meaning the assignments no longer change.
+* Initialization: Randomly assign ( k ) cluster centers.
+* Assignment: Assign each data point to the nearest cluster center.
+* Update: Recalculate the cluster centers as the mean of the assigned data points.
+* Repeat: Repeat the assignment and update steps until convergence, meaning the assignments no longer change.
+  
 This method is widely used in various fields such as market segmentation, pattern recognition, and image compression due to its simplicity and efficiency.
